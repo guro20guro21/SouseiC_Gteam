@@ -1,0 +1,10 @@
+C:\Users\guro1\OneDrive\デスクトップ\創成C\BlackjackApp\BlackjackApp\obj\Debug\BlackjackApp.csprojAssemblyReference.cache
+C:\Users\guro1\OneDrive\デスクトップ\創成C\BlackjackApp\BlackjackApp\obj\Debug\BlackjackApp.Form1.resources
+C:\Users\guro1\OneDrive\デスクトップ\創成C\BlackjackApp\BlackjackApp\obj\Debug\BlackjackApp.Properties.Resources.resources
+C:\Users\guro1\OneDrive\デスクトップ\創成C\BlackjackApp\BlackjackApp\obj\Debug\BlackjackApp.csproj.GenerateResource.cache
+C:\Users\guro1\OneDrive\デスクトップ\創成C\BlackjackApp\BlackjackApp\obj\Debug\BlackjackApp.csproj.CoreCompileInputs.cache
+C:\Users\guro1\OneDrive\デスクトップ\創成C\BlackjackApp\BlackjackApp\bin\Debug\BlackjackApp.exe.config
+C:\Users\guro1\OneDrive\デスクトップ\創成C\BlackjackApp\BlackjackApp\bin\Debug\BlackjackApp.exe
+C:\Users\guro1\OneDrive\デスクトップ\創成C\BlackjackApp\BlackjackApp\bin\Debug\BlackjackApp.pdb
+C:\Users\guro1\OneDrive\デスクトップ\創成C\BlackjackApp\BlackjackApp\obj\Debug\BlackjackApp.exe
+C:\Users\guro1\OneDrive\デスクトップ\創成C\BlackjackApp\BlackjackApp\obj\Debug\BlackjackApp.pdb
