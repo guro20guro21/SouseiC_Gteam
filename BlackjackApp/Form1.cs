@@ -28,8 +28,11 @@ namespace BlackjackApp
 
         private void button1_Click(object sender, EventArgs e)
         {
+            // textBox1の値を初期化
+            textBox1.Text = "";
+
             // Hitするごとに画像を更新、保存
-            if(p_draw_count == 1)
+            if (p_draw_count == 1)
             {
                 pictureBox3.ImageLocation = pictureBox1.ImageLocation;
             }
@@ -377,7 +380,7 @@ namespace BlackjackApp
                     dealer_m += dRandom.Next(1, 14);
                     d_draw_count++; // Hit回数を記憶
                 }
-                textBox3.Text = "Dealer Hand : \n" + dealer_m.ToString();
+                textBox3.Text = dealer_m.ToString();
                 if (dealer_m == 21) textBox3.Text += "___Blackjack!";
                 if(dealer_m <= 21) // ディーラーがbustしていない場合
                 {
@@ -493,6 +496,9 @@ namespace BlackjackApp
 
         }
 
-        
+        private void textBox3_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
